@@ -1,0 +1,2 @@
+#!/bin/bash
+docker run -p 8880:80 -d -t thumbor_nginx

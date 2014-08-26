@@ -1,0 +1,2 @@
+Thumbor Docker image
+====================
